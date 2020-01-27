@@ -1,4 +1,4 @@
-# Automate Splunk DB Collect Collections and Inputs
+# Automate Splunk DB Connect Collections and Inputs
 
 This python script generate db_connections.conf and db_inputs.conf for splunk_app_db_connect AddOn. You can create the date, put it in your TAs local Folder and restart Splunk, but please do not first test this in production ;)
 
