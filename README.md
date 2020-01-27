@@ -4,7 +4,7 @@ This python script generate db_connections.conf and db_inputs.conf for splunk_ap
 
 1. Modify inputs_full.csv according to your databases
 2. Run `python generate_db_connections_conf_full.py`
-3. Revies the two newly generated files in the same directoy as your script and inputs_full.csv and add it to the Splunk DB Collect AddOns local folder in your test stage
+3. Revies the two newly generated files in the same directoy as your script and inputs_full.csv and add it to the Splunk DB Connect AddOns local folder in your test stage
 4. Restart Splunk
 
 
